@@ -1,7 +1,7 @@
 let eyeWidth = 100; 
 let facewidth = 300; 
 function setup() {
-    createCanvas(600, 600); 
+    createCanvas(windowWidth, windowHeight); 
     background (153,124,167);
 
 }
